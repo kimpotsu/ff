@@ -1,5 +1,5 @@
 import streamlit as st
-import plotly.graph_objects as go
+
 
 # 기본 설정
 st.set_page_config(page_title="조승호 - 자기소개", layout="wide")
